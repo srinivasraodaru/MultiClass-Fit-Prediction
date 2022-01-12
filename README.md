@@ -1,4 +1,4 @@
-# CSE251B-Project
+# CSE258-Project
 
 ## Multi-Class Fit Prediction
 
